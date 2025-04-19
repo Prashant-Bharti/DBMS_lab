@@ -20,4 +20,8 @@ This is a collection of SQL practice codes covering all fundamental Database Man
   - Performance optimization examples
   - Error handling demonstrations
 
+![image](https://github.com/user-attachments/assets/7fe677f0-28d4-42c0-9e99-24585972711f)
+![image](https://github.com/user-attachments/assets/df660b1d-8484-47e2-85d0-e689a92555dd)
+
+
  ...Run and enjoy😊
